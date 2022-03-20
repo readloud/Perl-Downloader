@@ -1,6 +1,6 @@
 # Perl Downloader
 
-Scrappe and download file using perl
+Scrappe and download file from web using perl
 
 ## Module Install Instructions
 
